@@ -1,0 +1,17 @@
+<header class="site-header">
+  <div class="wrap">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <button class="nav-toggle" aria-label="メニューを開く" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <p class="site-tagline">{{ site.description }}</p>
+    <nav class="site-nav" aria-label="サイト内ナビゲーション">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>トップ</a>
+      <a href="{{ '/category/matching-app/' | relative_url }}"{% if page.url contains '/category/matching-app/' %} class="active"{% endif %}>マッチングアプリ</a>
+      <a href="{{ '/category/kekkon-sodanjo/' | relative_url }}"{% if page.url contains '/category/kekkon-sodanjo/' %} class="active"{% endif %}>結婚相談所</a>
+      <a href="{{ '/category/zokusei-tokka/' | relative_url }}"{% if page.url contains '/category/zokusei-tokka/' %} class="active"{% endif %}>属性特化型婚活</a>
+      <a href="{{ '/category/nayami-shinri/' | relative_url }}"{% if page.url contains '/category/nayami-shinri/' %} class="active"{% endif %}>婚活の悩み・心理</a>
+      <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} class="active"{% endif %}>運営者情報</a>
+    </nav>
+  </div>
+</header>
