@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    {% if page.categories %}
+    <div class="post-categories">
+      {% for cat in page.categories %}<span class="tag" data-cat="{{ cat }}">{{ cat }}</span>{% endfor %}
+    </div>
+    {% endif %}
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% assign char_count = content | strip_html | size %}
+    {% assign reading_min = char_count | divided_by: 500 | plus: 1 %}
+    <p class="post-meta">{{ page.date | date: "%Y年%m月%d日" }} ・ 読了目安 約{{ reading_min }}分{% if page.psychology_principle %} ・ 心理学の視点：{{ page.psychology_principle }}{% endif %}</p>
+  </header>
+
+  {% if page.image %}
+  <img class="post-eyecatch" src="{{ page.image | relative_url }}" alt="{{ page.title }}" width="1200" height="630">
+  {% endif %}
+
+  <div class="pr-notice">{{ site.pr_notice }}</div>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <div class="post-footer">
+    <p class="disclaimer">掲載しているサービスの内容・料金・特典等は変更される場合があります。お申し込みの際は、必ず公式サイトで最新情報をご確認ください。当サイトの情報は成果や成婚を保証するものではありません。</p>
+  </div>
+</article>
+
+{% if page.faq %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% for item in page.faq %}
+    {
+      "@type": "Question",
+      "name": {{ item.q | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ item.a | jsonify }}
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
