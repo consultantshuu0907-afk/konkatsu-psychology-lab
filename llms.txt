@@ -1,0 +1,17 @@
+---
+---
+# {{ site.title }}
+
+> {{ site.description }}
+
+このサイトは、婚活・恋愛サービス（マッチングアプリ・結婚相談所）を検討している人向けに、行動心理学の視点からサービスの選び方を解説しています。運営者：{{ site.author }}。
+
+## 記事一覧
+
+{% for post in site.posts %}- [{{ post.title }}]({{ site.url }}{{ site.baseurl }}{{ post.url }}): {{ post.description }}
+{% endfor %}
+
+## その他のページ
+
+- [運営者情報]({{ site.url }}{{ site.baseurl }}/about/)
+- [プライバシーポリシー]({{ site.url }}{{ site.baseurl }}/privacy/)

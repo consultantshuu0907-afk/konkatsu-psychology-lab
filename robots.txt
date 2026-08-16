@@ -1,0 +1,10 @@
+---
+---
+# 婚活心理ラボ - robots.txt
+# 標準的な検索エンジン・AI検索/回答エンジンのクロールを許可しています。
+# 特定のクローラーを拒否したい場合は、下に "User-agent: <bot名>\nDisallow: /" を追加してください。
+
+User-agent: *
+Allow: /
+
+Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
