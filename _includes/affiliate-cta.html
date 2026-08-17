@@ -1,0 +1,15 @@
+{% comment %}
+アフィリエイトCTAボックス
+params: name(必須) / url(必須・アフィリエイトリンク) / img(トラッキングピクセルURL) /
+        tagline(1行説明) / button(ボタン文言・省略時デフォルト)
+{% endcomment %}
+<div class="aff-cta">
+  <div class="aff-cta-head">
+    <span class="aff-cta-pr">PR</span>
+    <p class="aff-cta-name">{{ include.name }}</p>
+  </div>
+  {% if include.tagline %}<p class="aff-cta-tagline">{{ include.tagline }}</p>{% endif %}
+  <a class="aff-cta-btn" href="{{ include.url }}" rel="nofollow sponsored noopener" target="_blank">{{ include.button | default: "公式サイトで詳細を見る →" }}</a>
+  <p class="aff-cta-note">※最新の料金・サービス内容は公式サイトでご確認ください</p>
+  {% if include.img %}<img class="aff-cta-pixel" src="{{ include.img }}" height="1" width="1" alt="">{% endif %}
+</div>
