@@ -1,6 +1,9 @@
 <header class="site-header">
   <div class="wrap">
-    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <a class="site-title" href="{{ '/' | relative_url }}">
+      <img class="logo-mark" src="{{ '/assets/img/hero/logo-mark.png' | relative_url }}" alt="" width="30" height="30">
+      {{ site.title }}
+    </a>
     <button class="nav-toggle" aria-label="メニューを開く" aria-expanded="false">
       <span></span><span></span><span></span>
     </button>
