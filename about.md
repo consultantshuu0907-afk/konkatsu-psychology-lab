@@ -4,6 +4,10 @@ title: 運営者情報
 permalink: /about/
 main_class: static-page
 ---
+<div class="static-page-hero">
+  <img src="{{ '/assets/img/hero/consultation-2.jpg' | relative_url }}" alt="行動心理学の視点でサービス選びをサポートするイメージ" width="1672" height="941">
+</div>
+
 # 運営者情報
 
 **サイト名**：{{ site.title }}（{{ site.description }}）
