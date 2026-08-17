@@ -9,6 +9,7 @@ markdown: kramdown
 permalink: /:categories/:title/
 paginate: 10
 paginate_path: "/page:num/"
+future: true # 日付が未来の記事も公開する（GitHub Pagesはpushした時だけビルドされるため、日付だけを理由に記事が非表示になるのを防ぐ）
 
 # GitHub Pages標準の安全なプラグインのみ使用（Gemfile不要・追加設定不要で動作）
 plugins:
