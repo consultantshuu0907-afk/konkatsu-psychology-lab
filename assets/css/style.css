@@ -182,6 +182,12 @@ img { max-width: 100%; height: auto; }
 }
 .site-nav a:hover { color: var(--gold-300); background: rgba(201, 162, 39, 0.14); text-decoration: none; }
 .site-nav a.active { color: var(--navy-900); background: var(--gold-400); font-weight: 700; }
+.site-nav a.nav-cta {
+  background: linear-gradient(135deg, var(--gold-400), var(--gold-500));
+  color: var(--navy-900); font-weight: 700; margin-left: 4px;
+}
+.site-nav a.nav-cta:hover { background: linear-gradient(135deg, var(--gold-300), var(--gold-400)); color: var(--navy-900); }
+.site-nav a.nav-cta.active { background: var(--navy-900); color: var(--gold-300); }
 
 /* ---------------- Main ---------------- */
 .site-main { max-width: var(--max-width); margin: 0 auto; padding: 0 20px 72px; }
@@ -306,6 +312,27 @@ img { max-width: 100%; height: auto; }
   justify-content: center;
   font-size: 15px;
 }
+
+/* ---------------- Shindan (diagnosis) banner ---------------- */
+.shindan-banner { padding: 32px 0 0; }
+.shindan-banner-inner {
+  display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px;
+  background: linear-gradient(120deg, var(--navy-900), var(--navy-700));
+  border: 1px solid rgba(201, 162, 39, 0.35);
+  border-radius: var(--radius-lg);
+  padding: 22px 28px;
+  box-shadow: var(--shadow-md);
+}
+.shindan-banner-eyebrow { color: var(--gold-300); font-size: 11.5px; font-weight: 700; letter-spacing: 0.1em; margin: 0 0 6px; }
+.shindan-banner-title { color: #fdf8ec; font-size: 16px; font-weight: 700; line-height: 1.6; margin: 0; }
+.shindan-banner-btn {
+  flex: none; display: inline-flex; align-items: center; gap: 6px;
+  background: linear-gradient(135deg, var(--gold-400), var(--gold-500));
+  color: var(--navy-900); font-weight: 700; font-size: 13.5px;
+  padding: 12px 24px; border-radius: 999px; box-shadow: var(--shadow-gold);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.shindan-banner-btn:hover { transform: translateY(-2px); box-shadow: 0 14px 34px rgba(201,162,39,0.32); text-decoration: none; }
 
 /* ---------------- Category quick nav ---------------- */
 .quick-nav {
@@ -693,6 +720,18 @@ img { max-width: 100%; height: auto; }
   margin-top: 56px;
   border-top: 3px solid var(--gold-500);
 }
+.footer-shindan-cta {
+  display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 6px 16px;
+  background: rgba(201, 162, 39, 0.1);
+  border: 1px solid rgba(201, 162, 39, 0.32);
+  border-radius: 12px;
+  padding: 14px 20px;
+  margin-bottom: 22px;
+}
+.footer-shindan-cta span { font-size: 12.5px; color: rgba(253, 248, 236, 0.75); }
+.footer-shindan-cta strong { font-size: 13.5px; color: var(--gold-300); font-weight: 700; }
+.footer-shindan-cta:hover { text-decoration: none; border-color: var(--gold-400); }
+.footer-shindan-cta:hover strong { color: var(--gold-200, var(--gold-300)); text-decoration: underline; }
 .pr-footer-notice { font-size: 12px; color: rgba(253, 248, 236, 0.55); margin: 0 0 16px; max-width: 620px; }
 .footer-nav { display: flex; flex-wrap: wrap; gap: 6px 18px; margin-bottom: 14px; }
 .footer-nav a { font-size: 13px; color: rgba(253, 248, 236, 0.82); }
