@@ -1,3 +1,12 @@
+{% unless page.url == '/shindan/' %}
+<div class="floating-shindan" id="floating-shindan" hidden>
+  <a class="floating-shindan-link" href="{{ '/shindan/' | relative_url }}">
+    <span class="fs-eyebrow">無料 ・ 約30秒</span>
+    <strong>あなたに合う婚活タイプを診断する →</strong>
+  </a>
+  <button type="button" class="floating-shindan-close" aria-label="診断バナーを閉じる">×</button>
+</div>
+{% endunless %}
 <footer class="site-footer">
   <div class="wrap">
     <a class="footer-shindan-cta" href="{{ '/shindan/' | relative_url }}">
