@@ -67,6 +67,32 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  /* ---- Floating shindan CTA (appears after scrolling, dismissible) ---- */
+  var floating = document.getElementById('floating-shindan');
+  if (floating) {
+    var dismissed = false;
+    try { dismissed = sessionStorage.getItem('shindanCtaClosed') === '1'; } catch (e) {}
+    if (!dismissed) {
+      floating.hidden = false;
+      var updateFloating = function () {
+        var show = window.scrollY > 600;
+        floating.classList.toggle('is-visible', show);
+        document.body.classList.toggle('has-floating-shindan', show);
+      };
+      window.addEventListener('scroll', updateFloating, { passive: true });
+      updateFloating();
+      var closeBtn = floating.querySelector('.floating-shindan-close');
+      if (closeBtn) {
+        closeBtn.addEventListener('click', function () {
+          floating.classList.remove('is-visible');
+          document.body.classList.remove('has-floating-shindan');
+          floating.hidden = true;
+          try { sessionStorage.setItem('shindanCtaClosed', '1'); } catch (e) {}
+        });
+      }
+    }
+  }
+
   /* ---- Header shadow on scroll ---- */
   var header = document.querySelector('.site-header');
   if (header) {
