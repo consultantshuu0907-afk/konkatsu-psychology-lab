@@ -1,7 +1,7 @@
 title: 婚活心理ラボ
 description: "行動心理学でわかる、後悔しない婚活サービスの選び方"
-url: "" # 例: https://www.your-domain.com （独自ドメイン設定後に記入。空欄でもGitHub Pagesの標準URLで動作します）
-baseurl: ""
+url: "https://consultantshuu0907-afk.github.io" # GitHub Pagesの標準URL（独自ドメイン設定後はそちらに変更）
+baseurl: "/konkatsu-psychology-lab" # リポジトリ名に合わせたパス（プロジェクトページのため必須）
 lang: ja
 
 # ビルド設定（GitHub Pagesが自動でJekyllビルドするため特別な設定は不要）
