@@ -20,6 +20,16 @@ main_class: home-main
   </div>
 </section>
 
+<section class="shindan-banner">
+  <div class="wrap-wide shindan-banner-inner">
+    <div class="shindan-banner-text">
+      <p class="shindan-banner-eyebrow">無料 ・ 約30秒</p>
+      <p class="shindan-banner-title">あなたに合う婚活サービスは？<br class="sp-only">行動心理学タイプ診断でチェック</p>
+    </div>
+    <a class="shindan-banner-btn" href="{{ '/shindan/' | relative_url }}">無料で診断してみる →</a>
+  </div>
+</section>
+
 <nav class="quick-nav" aria-label="カテゴリーから探す">
   <div class="wrap-wide">
     <p class="section-heading">カテゴリーから探す</p>
