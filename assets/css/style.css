@@ -952,3 +952,7 @@ body.has-floating-shindan .back-to-top { bottom: 90px; }
   .aff-cta { padding: 20px 18px 16px; border-radius: 20px; }
   .post-title { font-size: 23px; }
 }
+
+/* --- Affiliate CTA official banner (2026/08/20) --- */
+.aff-cta-banner { display: block; text-align: center; margin: 6px 0 16px; }
+.aff-cta-banner img { max-width: 100%; height: auto; display: inline-block; }
