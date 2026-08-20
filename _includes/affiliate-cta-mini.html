@@ -1,0 +1,10 @@
+{% comment %}
+記事中盤用コンパクトアフィリエイトCTA
+params: name(必須) / url(必須) / button(省略時デフォルト)
+※末尾CTAと同一案件で使うこと（1記事1案件原則）。インプレッションビーコンは末尾CTA側で計測するため本コンポーネントには含めない
+{% endcomment %}
+<div class="aff-cta-mini">
+  <span class="aff-cta-pr">PR</span>
+  <p class="aff-cta-mini-name">{{ include.name }}</p>
+  <a class="aff-cta-mini-btn" href="{{ include.url }}" rel="nofollow sponsored noopener" target="_blank">{{ include.button | default: "公式サイトを見る →" }}</a>
+</div>
