@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 婚活タイプ診断
+title: 婚活タイプ診断（無料・登録不要）｜30秒で自分に合った婚活方法がわかる
 permalink: /shindan/
 body_class: page-shindan
 main_class: shindan-main
-description: "5つの質問に答えるだけで、あなたの婚活スタイルに合うサービスの傾向がわかる無料診断。行動心理学の視点から、後悔しないサービス選びをサポートします。"
+description: "無料・登録なしで使える婚活タイプ診断。5つの質問に約30秒で答えるだけで、自分に合った婚活方法（マッチングアプリ・結婚相談所・婚活パーティー等）の傾向がわかります。行動心理学の視点から、後悔しないサービス選びをサポート。"
 ---
 
 {% assign p_partner = site.posts | where_exp: "post", "post.path contains 'partner-agent-kuchikomi-hyouban'" | first %}

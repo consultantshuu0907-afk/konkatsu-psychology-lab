@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ホーム
 main_class: home-main
+description: "マッチングアプリ・結婚相談所の選び方を行動心理学で解説する婚活情報サイト。無料の婚活タイプ診断で、自分に合った婚活方法がわかります。"
 ---
 <section class="hero">
   <div class="hero-bg" style="--hero-image: url('{{ '/assets/img/hero/hero-bg.jpg' | relative_url }}');"></div>
