@@ -956,3 +956,58 @@ body.has-floating-shindan .back-to-top { bottom: 90px; }
 /* --- Affiliate CTA official banner (2026/08/20) --- */
 .aff-cta-banner { display: block; text-align: center; margin: 6px 0 16px; }
 .aff-cta-banner img { max-width: 100%; height: auto; display: inline-block; }
+
+/* --- 記事上部：診断ソフトCTA (2026/08/20) --- */
+.post-shindan-cta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
+  background: linear-gradient(135deg, var(--navy-800), var(--navy-600));
+  border: 1px solid rgba(201, 162, 39, 0.35);
+  border-radius: 18px;
+  padding: 14px 18px;
+  margin: 0 0 28px;
+  text-decoration: none;
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.post-shindan-cta:hover { transform: translateY(-2px); box-shadow: var(--shadow-md); text-decoration: none; }
+.post-shindan-cta:active { transform: scale(0.98); }
+.post-shindan-cta .psc-badge {
+  flex: none; font-size: 11px; font-weight: 700; letter-spacing: 0.05em;
+  color: var(--navy-900); background: linear-gradient(135deg, var(--gold-400), var(--gold-500));
+  border-radius: 999px; padding: 3px 10px;
+}
+.post-shindan-cta .psc-text { font-size: 12.5px; color: rgba(253, 248, 236, 0.85); line-height: 1.6; flex: 1; min-width: 200px; }
+.post-shindan-cta .psc-link { font-size: 13px; color: var(--gold-300); font-weight: 700; white-space: nowrap; }
+.post-shindan-cta:hover .psc-link { text-decoration: underline; }
+
+/* --- 記事中盤：コンパクトアフィリCTA (2026/08/20) --- */
+.aff-cta-mini {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px 14px;
+  background: linear-gradient(180deg, var(--gold-tint, #fdf8ec) 0%, #ffffff 90%);
+  border: 1px solid rgba(201, 162, 39, 0.38);
+  border-radius: 16px;
+  padding: 14px 18px;
+  margin: 26px 0;
+  box-shadow: var(--shadow-sm);
+}
+.aff-cta-mini .aff-cta-mini-name { margin: 0; font-size: 14.5px; font-weight: 700; color: var(--navy-900); flex: 1; min-width: 160px; }
+.aff-cta-mini .aff-cta-mini-btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  background: linear-gradient(135deg, var(--gold-400), var(--gold-500));
+  color: var(--navy-900); font-weight: 700; font-size: 13px;
+  padding: 10px 20px; border-radius: 999px; box-shadow: var(--shadow-gold);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  white-space: nowrap;
+}
+.aff-cta-mini .aff-cta-mini-btn:hover { transform: translateY(-2px); text-decoration: none; color: var(--navy-900); }
+.aff-cta-mini .aff-cta-mini-btn:active { transform: scale(0.97); }
+@media (max-width: 640px) {
+  .aff-cta-mini .aff-cta-mini-btn { width: 100%; }
+  .post-shindan-cta .psc-link { white-space: normal; }
+}
