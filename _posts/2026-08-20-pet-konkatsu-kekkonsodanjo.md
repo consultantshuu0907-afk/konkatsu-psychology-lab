@@ -90,5 +90,9 @@ faq:
   tagline="動物好き・ペット好き男女専門の結婚相談所・お見合い・婚活サービス。ペットへの理解を前提とした出会いの場を、公式サイトで確認できます。"
   url="https://px.a8.net/svt/ejp?a8mat=3Z72Y6+5U65YA+3LOM+ZS5GI"
   img="https://www11.a8.net/0.gif?a8mat=3Z72Y6+5U65YA+3LOM+ZS5GI"
+  banner_href="https://px.a8.net/svt/ejp?a8mat=3Z72Y6+5U65YA+3LOM+ZRALD"
+  banner_src="https://www24.a8.net/svt/bgt?aid=240515502353&wid=007&eno=01&mid=s00000016807006006000&mc=1"
+  banner_beacon="https://www13.a8.net/0.gif?a8mat=3Z72Y6+5U65YA+3LOM+ZRALD"
+  banner_alt="ペット婚"
   button="公式サイトで詳細を確認する →"
 %}

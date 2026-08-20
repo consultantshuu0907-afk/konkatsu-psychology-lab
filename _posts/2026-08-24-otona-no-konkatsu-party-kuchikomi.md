@@ -88,5 +88,9 @@ faq:
   tagline="パートナーエージェントがプロデュースする婚活・お見合いパーティー。開催イベントの対象年齢や形式を公式サイトで確認できます。"
   url="https://track.affiliate-b.com/visit.php?a=T49219-w1502212&p=i990685A"
   img="https://track.affiliate-b.com/lead/T49219/i990685A/w1502212"
+  banner_href="https://track.affiliate-b.com/visit.php?a=T49219-t190324h&p=i990685A"
+  banner_src="https://www.affiliate-b.com/upload_image/4921-1372327601-3.gif"
+  banner_beacon="https://track.affiliate-b.com/lead/T49219/i990685A/t190324h"
+  banner_alt="おとなの婚活パーティー OTOCON"
   button="公式サイトで開催予定を確認する →"
 %}

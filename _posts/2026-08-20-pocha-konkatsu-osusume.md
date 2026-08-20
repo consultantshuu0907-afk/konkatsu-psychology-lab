@@ -92,5 +92,9 @@ faq:
   tagline="ぽっちゃり女性専門の結婚相談所・お見合い・婚活応援サービス。体型への理解を前提とした環境かどうか、公式サイトで確認できます。"
   url="https://t.afi-b.com/visit.php?a=Y10346X-S347777B&p=i990685A"
   img="https://t.afi-b.com/lead/Y10346X/i990685A/S347777B"
+  banner_href="https://t.afi-b.com/visit.php?a=Y10346X-m350395x&p=i990685A"
+  banner_src="https://www.afi-b.com/upload_image/10346-1548874639-3.jpg"
+  banner_beacon="https://t.afi-b.com/lead/Y10346X/i990685A/m350395x"
+  banner_alt="ぽちゃ婚"
   button="公式サイトで詳細を確認する →"
 %}

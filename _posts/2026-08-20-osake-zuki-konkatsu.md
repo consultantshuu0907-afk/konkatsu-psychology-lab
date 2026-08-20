@@ -84,5 +84,9 @@ A. 出会いの形や結果には個人差があり、特定のサービスを�
   tagline="お酒好き男女専門の結婚相談所・お見合い・婚活サービス。「お酒好き」を共通の前提にした出会いの場を、公式サイトで確認できます。"
   url="https://px.a8.net/svt/ejp?a8mat=3Z4RS8+DQ5XIA+3LOM+15OK2A"
   img="https://www10.a8.net/0.gif?a8mat=3Z4RS8+DQ5XIA+3LOM+15OK2A"
+  banner_href="https://px.a8.net/svt/ejp?a8mat=3Z4RS8+DQ5XIA+3LOM+15Q9SH"
+  banner_src="https://www27.a8.net/svt/bgt?aid=240407720830&wid=007&eno=01&mid=s00000016807007009000&mc=1"
+  banner_beacon="https://www11.a8.net/0.gif?a8mat=3Z4RS8+DQ5XIA+3LOM+15Q9SH"
+  banner_alt="お酒婚"
   button="公式サイトで詳細を確認する →"
 %}

@@ -93,5 +93,9 @@ A. 併用している人も少なくありません。属性特化型で心理�
   tagline="アニメ・マンガ・ゲーム好きのヲタク（オタク）男女専門の結婚相談所・お見合い・婚活応援サービス。「趣味を隠さない婚活」を前提にした環境を公式サイトで確認できます。"
   url="https://t.afi-b.com/visit.php?a=110347Q-c347779N&p=i990685A"
   img="https://t.afi-b.com/lead/110347Q/i990685A/c347779N"
+  banner_href="https://t.afi-b.com/visit.php?a=110347Q-T350400G&p=i990685A"
+  banner_src="https://www.afi-b.com/upload_image/10347-1541048476-3.png"
+  banner_beacon="https://t.afi-b.com/lead/110347Q/i990685A/T350400G"
+  banner_alt="ヲタ婚"
   button="公式サイトで詳細を確認する →"
 %}
