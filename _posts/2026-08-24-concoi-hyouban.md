@@ -97,5 +97,9 @@ concoi(こんこい)に限らず、比較的新しいマッチングアプリを
   tagline="IBJ加盟のオンライン結婚相談所。オンラインで自宅から婚活できる形態で、料金・サポート内容を公式サイトで確認できます。"
   url="https://t.afi-b.com/visit.php?a=e16244o-k522499Y&p=i990685A"
   img="https://t.afi-b.com/lead/e16244o/i990685A/k522499Y"
+  banner_href="https://t.afi-b.com/visit.php?a=e16244o-2523409l&p=i990685A"
+  banner_src="https://www.afi-b.com/upload_image/16244-1757094639-3.png"
+  banner_beacon="https://t.afi-b.com/lead/e16244o/i990685A/2523409l"
+  banner_alt="ウェルスマ"
   button="公式サイトで詳細を確認する →"
 %}

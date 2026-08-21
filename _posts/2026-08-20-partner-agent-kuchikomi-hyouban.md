@@ -101,5 +101,9 @@ faq:
   tagline="結婚相談所パートナーエージェントが提供する無料の婚活EQ診断テスト。入会前に自分の婚活傾向を確認できます。"
   url="https://t.afi-b.com/visit.php?a=u3989s-r82993g&p=i990685A"
   img="https://t.afi-b.com/lead/u3989s/i990685A/r82993g"
+  banner_href="https://t.afi-b.com/visit.php?a=u3989s-v829908&p=i990685A"
+  banner_src="https://www.afi-b.com/upload_image/3989-1286616069-3.jpg"
+  banner_beacon="https://t.afi-b.com/lead/u3989s/i990685A/v829908"
+  banner_alt="婚活EQ診断"
   button="無料EQ診断を試してみる →"
 %}

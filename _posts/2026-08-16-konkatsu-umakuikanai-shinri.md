@@ -77,5 +77,9 @@ A. はい。損失回避の心理が強く働いているときほど、一度�
   tagline="恋愛経験が少ない男女専門の結婚相談所・お見合い・婚活サービス。「経験の少なさ」を前提にした環境かどうか、公式サイトで確認できます。"
   url="https://px.a8.net/svt/ejp?a8mat=4BA7XB+6NXU76+3LOM+1BMW42"
   img="https://www15.a8.net/0.gif?a8mat=4BA7XB+6NXU76+3LOM+1BMW42"
+  banner_href="https://px.a8.net/svt/ejp?a8mat=4BA7XB+6NXU76+3LOM+1BOLU9"
+  banner_src="https://www23.a8.net/svt/bgt?aid=260817311403&wid=007&eno=01&mid=s00000016807008009000&mc=1"
+  banner_beacon="https://www19.a8.net/0.gif?a8mat=4BA7XB+6NXU76+3LOM+1BOLU9"
+  banner_alt="ピュア婚"
   button="公式サイトで詳細を確認する →"
 %}

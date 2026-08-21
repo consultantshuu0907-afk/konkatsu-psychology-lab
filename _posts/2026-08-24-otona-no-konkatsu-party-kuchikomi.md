@@ -105,5 +105,9 @@ faq:
   tagline="株式会社IBJが運営するお見合い・婚活パーティー。20代後半〜30代中心のイベントを含め、開催予定を公式サイトで検索できます。"
   url="https://px.a8.net/svt/ejp?a8mat=4BA7XB+6M5JDU+FOG+3H5J2Q"
   img="https://www17.a8.net/0.gif?a8mat=4BA7XB+6M5JDU+FOG+3H5J2Q"
+  banner_href="https://px.a8.net/svt/ejp?a8mat=4BA7XB+6M5JDU+FOG+3HB3OX"
+  banner_src="https://www26.a8.net/svt/bgt?aid=260817311400&wid=007&eno=01&mid=s00000002032021047000&mc=1"
+  banner_beacon="https://www12.a8.net/0.gif?a8mat=4BA7XB+6M5JDU+FOG+3HB3OX"
+  banner_alt="IBJ Matching（旧PARTY☆PARTY）"
   button="公式サイトで開催予定を確認する →"
 %}

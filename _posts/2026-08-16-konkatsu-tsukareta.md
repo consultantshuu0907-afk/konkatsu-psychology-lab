@@ -102,5 +102,9 @@ A. マッチングアプリの中には、無料で登録し、機能の一部�
   tagline="公認心理師（国家資格）のみが登録するオンライン心理カウンセリング。婚活を休んでいる間の気持ちの整理を、自宅から専門家に相談できます。"
   url="https://px.a8.net/svt/ejp?a8mat=4BA7XB+76E9YA+5OI8+5YZ76"
   img="https://www13.a8.net/0.gif?a8mat=4BA7XB+76E9YA+5OI8+5YZ76"
+  banner_href="https://px.a8.net/svt/ejp?a8mat=4BA7XB+76E9YA+5OI8+60H7L"
+  banner_src="https://www26.a8.net/svt/bgt?aid=260817311434&wid=007&eno=01&mid=s00000026504001010000&mc=1"
+  banner_beacon="https://www17.a8.net/0.gif?a8mat=4BA7XB+76E9YA+5OI8+60H7L"
+  banner_alt="Kimochi"
   button="公式サイトで詳細を確認する →"
 %}

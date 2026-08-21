@@ -106,5 +106,9 @@ faq:
   tagline="登録料・成婚料0円・月額8,800円のオンライン結婚相談所。アプリと従来型相談所の中間にあたる選択肢として、公式サイトで内容を確認できます。"
   url="https://t.afi-b.com/visit.php?a=p16810N-M536678f&p=i990685A"
   img="https://t.afi-b.com/lead/p16810N/i990685A/M536678f"
+  banner_href="https://t.afi-b.com/visit.php?a=p16810N-U536749J&p=i990685A"
+  banner_src="https://www.afi-b.com/upload_image/16810-1790337874-3.png"
+  banner_beacon="https://t.afi-b.com/lead/p16810N/i990685A/U536749J"
+  banner_alt="リトマリ"
   button="公式サイトで詳細を確認する →"
 %}

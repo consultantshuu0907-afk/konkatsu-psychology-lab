@@ -100,5 +100,9 @@ faq:
   tagline="「日本で一番成婚にこだわったサービス」を掲げる結婚相談所。資料請求のほか、オンライン・来店の無料相談も公式サイトから申し込めます。"
   url="https://px.a8.net/svt/ejp?a8mat=4BA7XB+6TW68Y+2RIS+BWVTE"
   img="https://www17.a8.net/0.gif?a8mat=4BA7XB+6TW68Y+2RIS+BWVTE"
+  banner_href="https://px.a8.net/svt/ejp?a8mat=4BA7XB+6TW68Y+2RIS+C0QPD"
+  banner_src="https://www25.a8.net/svt/bgt?aid=260817311413&wid=007&eno=01&mid=s00000012898002019000&mc=1"
+  banner_beacon="https://www19.a8.net/0.gif?a8mat=4BA7XB+6TW68Y+2RIS+C0QPD"
+  banner_alt="結婚相談所フィオーレ"
   button="公式サイトで詳細を確認する →"
 %}
