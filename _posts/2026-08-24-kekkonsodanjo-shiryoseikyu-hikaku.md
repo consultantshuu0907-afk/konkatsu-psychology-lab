@@ -90,6 +90,10 @@ faq:
   tagline="東京・神奈川（川崎・武蔵小杉）エリアの結婚相談所。比較検討の基準点となる1社として、料金・サポート内容を公式サイトで確認できます。"
   url="https://www.rentracks.jp/adx/r.html?idx=0.57954.386058.8717.12349&dna=145435"
   img="https://www.rentracks.jp/adx/p.gifx?idx=0.57954.386058.8717.12349&dna=145435"
+  banner_href="https://www.rentracks.jp/adx/r.html?idx=0.57954.386058.8717.12349&dna=153494"
+  banner_src="https://www.image-rentracks.com/12349/300_250.png"
+  banner_beacon="https://www.rentracks.jp/adx/p.gifx?idx=0.57954.386058.8717.12349&dna=153494"
+  banner_alt="シーネット結婚相談所"
   button="公式サイトで詳細を確認する →"
 %}
 

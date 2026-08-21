@@ -87,6 +87,10 @@ concoi(こんこい)に限らず、比較的新しいマッチングアプリを
   tagline="IBJ加盟店の結婚相談所をサブスク（月額）型で利用できるサービス。加盟制という確認しやすい枠組みを、低いハードルで試せる形態です。"
   url="https://www.rentracks.jp/adx/r.html?idx=0.57954.386058.9927.14145&dna=162831"
   img="https://www.rentracks.jp/adx/p.gifx?idx=0.57954.386058.9927.14145&dna=162831"
+  banner_href="https://www.rentracks.jp/adx/r.html?idx=0.57954.386058.9927.14145&dna=163487"
+  banner_src="https://www.image-rentracks.com/14145/300_250_high.jpg"
+  banner_beacon="https://www.rentracks.jp/adx/p.gifx?idx=0.57954.386058.9927.14145&dna=163487"
+  banner_alt="サブスク婚活"
   button="公式サイトで詳細を確認する →"
 %}
 

@@ -91,6 +91,10 @@ faq:
   tagline="「本気の男女が出会う」ことを掲げる東京の結婚相談所。専任サポート型の比較候補の一つとして、公式サイトで料金・サポート内容を確認できます。"
   url="https://www.rentracks.jp/adx/r.html?idx=0.57954.386058.6813.9730&dna=120727"
   img="https://www.rentracks.jp/adx/p.gifx?idx=0.57954.386058.6813.9730&dna=120727"
+  banner_href="https://www.rentracks.jp/adx/r.html?idx=0.57954.386058.6813.9730&dna=122124"
+  banner_src="https://www.image-rentracks.com/9730/300_250.jpg"
+  banner_beacon="https://www.rentracks.jp/adx/p.gifx?idx=0.57954.386058.6813.9730&dna=122124"
+  banner_alt="銀座マリッジシックス"
   button="公式サイトで詳細を確認する →"
 %}
 

@@ -55,6 +55,10 @@ faq:
   tagline="「超効率良く婚活できる」を掲げる男女協力型の結婚相談所。第三者の視点が入る仕組みは、一人で選ぶと迷いやすい人の判断の偏りを外す環境として機能します。"
   url="https://www.rentracks.jp/adx/r.html?idx=0.57954.386058.8326.11786&dna=140672"
   img="https://www.rentracks.jp/adx/p.gifx?idx=0.57954.386058.8326.11786&dna=140672"
+  banner_href="https://www.rentracks.jp/adx/r.html?idx=0.57954.386058.8326.11786&dna=145621"
+  banner_src="https://www.image-rentracks.com/11786/300_250.jpg"
+  banner_beacon="https://www.rentracks.jp/adx/p.gifx?idx=0.57954.386058.8326.11786&dna=145621"
+  banner_alt="婚活KOKO"
   button="公式サイトで詳細を確認する →"
 %}
 

@@ -90,5 +90,9 @@ faq:
   tagline="オンライン完結・サブスク型（月額制）の結婚相談所。店舗に通わない設計のため、地方在住でも都市部と同じ形でサポートを受けられます。"
   url="https://www.rentracks.jp/adx/r.html?idx=0.57954.386058.10710.15311&dna=174421"
   img="https://www.rentracks.jp/adx/p.gifx?idx=0.57954.386058.10710.15311&dna=174421"
+  banner_href="https://www.rentracks.jp/adx/r.html?idx=0.57954.386058.10710.15311&dna=175011"
+  banner_src="https://www.image-rentracks.com/15311/300_250.png"
+  banner_beacon="https://www.rentracks.jp/adx/p.gifx?idx=0.57954.386058.10710.15311&dna=175011"
+  banner_alt="ベルロード縁結びサポート"
   button="公式サイトで詳細を確認する →"
 %}

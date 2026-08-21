@@ -74,6 +74,10 @@ faq:
   tagline="「40代からの素敵な結婚」を掲げる、40代の婚活を対象にした結婚相談所。会員層やサポート内容が自分の基準点に合うか、公式サイトで確認できます。"
   url="https://www.rentracks.jp/adx/r.html?idx=0.57954.386058.3346.14401&dna=165311"
   img="https://www.rentracks.jp/adx/p.gifx?idx=0.57954.386058.3346.14401&dna=165311"
+  banner_href="https://www.rentracks.jp/adx/r.html?idx=0.57954.386058.3346.14401&dna=166359"
+  banner_src="https://www.image-rentracks.com/14401/300_250_high.jpg"
+  banner_beacon="https://www.rentracks.jp/adx/p.gifx?idx=0.57954.386058.3346.14401&dna=166359"
+  banner_alt="エクセレンス青山PLATINUM"
   button="公式サイトで詳細を確認する →"
 %}
 
