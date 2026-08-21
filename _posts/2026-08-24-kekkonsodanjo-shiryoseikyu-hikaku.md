@@ -92,3 +92,13 @@ faq:
   img="https://www.rentracks.jp/adx/p.gifx?idx=0.57954.386058.8717.12349&dna=145435"
   button="公式サイトで詳細を確認する →"
 %}
+
+また、比較対象を広げたい場合は、成婚実績を公表している大手グループの相談所も候補になります。資料請求だけでなく無料相談（オンライン・来店）まで公式サイトから申し込めるため、「資料で比較→気になったら話を聞く」という段階的な進め方がしやすい1社です。
+
+{% include affiliate-cta.html
+  name="結婚相談所フィオーレ"
+  tagline="「日本で一番成婚にこだわったサービス」を掲げる結婚相談所。資料請求のほか、オンライン・来店の無料相談も公式サイトから申し込めます。"
+  url="https://px.a8.net/svt/ejp?a8mat=4BA7XB+6TW68Y+2RIS+BWVTE"
+  img="https://www17.a8.net/0.gif?a8mat=4BA7XB+6TW68Y+2RIS+BWVTE"
+  button="公式サイトで詳細を確認する →"
+%}

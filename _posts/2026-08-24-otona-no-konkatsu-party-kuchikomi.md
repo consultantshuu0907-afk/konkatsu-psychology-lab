@@ -97,3 +97,13 @@ faq:
   banner_alt="おとなの婚活パーティー OTOCON"
   button="公式サイトで開催予定を確認する →"
 %}
+
+パーティーの選択肢をもう1つ確認しておきたい場合は、IBJが運営するお見合い・婚活パーティーも比較候補になります。複数の運営元のイベントを見比べることは、この記事で紹介した「社会的証明に振り回されない」ための実践でもあります。
+
+{% include affiliate-cta.html
+  name="IBJ Matching（旧PARTY☆PARTY）"
+  tagline="株式会社IBJが運営するお見合い・婚活パーティー。20代後半〜30代中心のイベントを含め、開催予定を公式サイトで検索できます。"
+  url="https://px.a8.net/svt/ejp?a8mat=4BA7XB+6M5JDU+FOG+3H5J2Q"
+  img="https://www17.a8.net/0.gif?a8mat=4BA7XB+6M5JDU+FOG+3H5J2Q"
+  button="公式サイトで開催予定を確認する →"
+%}
